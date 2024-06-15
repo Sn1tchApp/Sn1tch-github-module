@@ -1,0 +1,23 @@
+{
+  "name": "sn1tch-github-module",
+  "version": "1.0.0",
+  "description": "Integrador do GitHub ao sistema Sn1tch",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sn1tchApp/Sn1tch-github-module.git"
+  },
+  "author": "Grupo 3 MPES Cesar School",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sn1tchApp/Sn1tch-github-module/issues"
+  },
+  "homepage": "https://github.com/Sn1tchApp/Sn1tch-github-module#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
